@@ -99,9 +99,9 @@ do
     end
 
     local t = parseObject(topObject)
---    print("table.maxn(t)", table.maxn(t))
---    print("===== =====")
+    print(string.rep ("=", 60) .. "\n")
     table_print(t, 4)
+    print("\n" .. string.rep ("=", 60) .. "\n")
 
   end
 
