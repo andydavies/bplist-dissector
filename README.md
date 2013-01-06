@@ -8,6 +8,7 @@ Currently uses print so will only show packets in tshark
 
 ##TODO
 
-- Implement sets UTF16
+- Implement Sets, UTF16
 - Format dates correctly
-- Display in Wireshark rather then relying on print!
+- Can tree be defaulted open?
+~~- Display in Wireshark rather then relying on print!~~
