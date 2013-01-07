@@ -27,4 +27,4 @@ Add ```dofile(USER_DIR.."bplist.lua")``` to the end of ```/Applications/Wireshar
 - Move port number into prefs?
 - Tests
 - Can tree be defaulted open?
-- ~~ Display in Wireshark rather then relying on print!~~
+- ~~Display in Wireshark rather then relying on print!~~
